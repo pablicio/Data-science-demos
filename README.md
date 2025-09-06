@@ -1,7 +1,23 @@
-# DataScience-Demo-2022
-This is my portfolio project
+# DataScience-Demos
 
-[![Python application test with Github Actions](https://github.com/noahgift/DataScience-Demo-2022/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/DataScience-Demo-2022/actions/workflows/main.yml)
+🚢 Projeto Titanic – Data Science em ação
+
+🔍 EDA: explorei os dados do Titanic para entender padrões de sobrevivência.
+
+📊 Visualizações: analisei distribuições de idade, sexo e classe social.
+
+🛠 Preparação de dados: tratei valores ausentes e transformei variáveis categóricas.
+
+🌲 Modelagem: treinei um Random Forest Classifier para prever sobrevivência.
+
+✅ Resultados: o modelo alcançou 81% de acurácia no conjunto de teste.
+
+🧪 Qualidade: validei o notebook com pytest + nbval, garantindo que todas as células rodam sem erros e os resultados se mantêm consistentes.
+
+Um ótimo exercício para praticar o ciclo completo de um projeto de Machine Learning: explorar → preparar → modelar → avaliar → testar.
+
+
+![Métricas de avaliação](metrics.png)
 
 ## Background
 
