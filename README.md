@@ -16,17 +16,9 @@
 
 Um ótimo exercício para praticar o ciclo completo de um projeto de Machine Learning: explorar → preparar → modelar → avaliar → testar.
 
+## Métricas extraídasdas
 
 ![Métricas de avaliação](metrics.png)
-
-## Background
-
-I looked at X, Y, Z
-
-## Interesting Graph
-
-![heatmap](https://user-images.githubusercontent.com/58792/150622062-90922e87-a62d-449e-8994-28233e47c81e.png)
-
 
 ## My Notebook
 
