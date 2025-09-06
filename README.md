@@ -14,6 +14,6 @@ I looked at X, Y, Z
 
 ## My Notebook
 
-* [Run my Colab Notebook](https://colab.research.google.com/drive/1jH-0nJX2s9Xaev6RcoGnCo2HaEUOU0ge#scrollTo=543af99a)
+* [Run my Colab Notebook](https://colab.research.google.com/drive/1jH-0nJX2s9Xaev6RcoGnCo2HaEUOU0ge?usp=sharing)
 * [A Full Data Science Notebook](https://github.com/pablicio/Data-science-demos/blob/main/Titanic_simple_test.ipynb)
 * Here is my raw data
