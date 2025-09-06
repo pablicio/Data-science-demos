@@ -9,4 +9,4 @@ flask
 requests
 matplotlib
 seaborn
-sklearn
+scikit-learn
