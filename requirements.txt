@@ -7,4 +7,4 @@ nbval
 click
 flask
 requests
-matplotlib==3.10.3
+matplotlib
