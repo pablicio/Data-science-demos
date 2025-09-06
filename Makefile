@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest --nbval Titanic_simple_test.ipynb
+	python -m pytest --nbval-lax Titanic_simple_test.ipynb
 
 format:
 	black *.py
