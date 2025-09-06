@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest --nbval data_science_notebook.ipynb
+	python -m pytest --nbval Titanic_simple_test.ipynb
 
 format:
 	black *.py
